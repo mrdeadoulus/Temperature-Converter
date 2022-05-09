@@ -1,5 +1,4 @@
-# Temperature-Converter
-Python Temperature Converter made with Python by @muh_fikr1
+
 from tkinter import *
 
 gui = Tk()
